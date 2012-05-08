@@ -1,0 +1,55 @@
+*** Snapshot Changelog ***
+
+2010.06.28 - version 2.2.1
+ * style.css - Fixed Gravity forms styling bug
+
+2010.06.21 - version 2.2.0
+ * header.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ 
+2010.04.28 Ð version 2.1.1
+ * style.css - Added styling for Gravity forms
+
+2010.04.28 Ð version 2.1
+ * /functions/* Ð MAJOR UPDATE Ð Framework V.2.7.8
+ * header.php Ð Added SEO tags, woo_title(); & woo_meta(); Also added WooNav support
+ * functions.php Ð Changed layout for loading required files.
+
+2009.10.07 - version 2.0.4
+ * layouts/1-photo.php - Changed image include to display & resize larger image 
+
+2009.09.14 - version 2.0.3
+ * includes/theme-options.php - Added option to turn on dynamic image resizer 
+ * layouts/1-photo.php and layouts/2-gallery.php changed woo_get_image call.
+ * single.php - Change woo_get_image call.
+ * archive.php - Change woo_get_image call.
+
+2009.08.30 - version 2.0.2
+ * /functions/* - Core Framework 1.0.7
+ * /lang/snapshot.po - Added language file. See: http://www.woothemes.com/2009/08/how-to-translate-a-theme/
+ * Added gettext functions to template php files to support localization.
+
+
+2009.08.17 - version 2.0.1
+  * comments.php - Fixed PHP error bug relating to split_comments()
+
+2009.08.06 - version 2.0.0
+  * /functions/ - New WooThemes Framework (V1.0.4) (core theme functions)
+     functions.php
+  * includes/theme-comments.php - Moved from /functions/
+     includes/theme-functions.php
+     includes/theme-js.php
+     includes/theme-options.php
+     includes/theme-widgets.php
+     includes/sidebar-init.php
+  * includes/theme-options.php - Added new general options
+
+2009.16.01 - Version 1.1
+	* thumb.php - Dynamic image resizer
+	  functions.php
+	  tag.php
+	  archive.php
+	  layouts/*.php
+	  index.php
+
+2008.10.13 - Version 1.0

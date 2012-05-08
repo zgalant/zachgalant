@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timm Balouschek <fearblog@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#. Text in function
+#: snapshot/comments.php:89
+#: snapshot/comments.php:92
+msgid "(required)"
+msgstr "(benötigt)"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "0 Comments"
+msgstr "0 Kommentare"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#. Text in echo
+#: snapshot/index.php:53
+#: snapshot/archive.php:53
+#: snapshot/tag.php:53
+msgid "Added on"
+msgstr "Hinzugefügt am"
+
+#. Text in echo
+#: snapshot/header.php:11
+#: snapshot/header.php:12
+msgid "Archive"
+msgstr "Archiv"
+
+#. Text in echo
+#: snapshot/header.php:8
+msgid "Author Archives"
+msgstr "Autorarchive"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:44
+#: snapshot/layouts/1-photo.php:51
+msgid "Author's Description"
+msgstr "Über den Autor"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:33
+#: snapshot/layouts/1-photo.php:39
+msgid "Category"
+msgstr "Kategorie"
+
+#. Text in echo
+#: snapshot/comments.php:66
+msgid "Comments are closed"
+msgstr "Kommentare sind geschlossen"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Text in echo
+#: snapshot/header.php:48
+#: snapshot/header.php:66
+msgid "Home"
+msgstr "Home"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Log out of this account"
+msgstr "Aus diesem Account ausloggen"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logged in as"
+msgstr "Eingeloggt als"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logout &raquo;"
+msgstr "Ausloggen &raquo; "
+
+#. Text in echo
+#: snapshot/comments.php:92
+msgid "Mail (will not be published)"
+msgstr "Mail (wird nicht veröffentlicht)"
+
+#. Text in echo
+#: snapshot/comments.php:89
+msgid "Name"
+msgstr "Name"
+
+#. Text in function
+#: snapshot/page.php:30
+msgid "Newer Entries"
+msgstr "Neuere Beiträge"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:35
+msgid "Photo Information"
+msgstr "Foto Information"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:41
+msgid "Photo Rating"
+msgstr "Fotobewertung"
+
+#. Text in echo
+#: snapshot/footer.php:6
+msgid "Powered by"
+msgstr "Powered by"
+
+#. Text in function
+#: snapshot/page.php:29
+msgid "Previous Entries"
+msgstr "VORHERIGE BEITRÄGE"
+
+#. Text in echo
+#: snapshot/header.php:7
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#. Text in echo
+#: snapshot/includes/theme-widgets.php:9
+msgid "Showcase Tags"
+msgstr "Showcase Tags"
+
+#. Text in echo
+#: snapshot/comments.php:103
+msgid "Submit Comment"
+msgstr "Kommentar abschicken"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:29
+#: snapshot/layouts/1-photo.php:37
+msgid "Submitted on"
+msgstr "Veröffentlich am"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to the RSS feed"
+msgstr "Abonniere den RSS-Feed"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to this site"
+msgstr "Abonniere diese Seite"
+
+#. Text in echo
+#: snapshot/header.php:13
+msgid "Tag Archive"
+msgstr "Tagarchiv"
+
+#. Text in echo
+#: snapshot/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein um die Kommentare zu sehen."
+
+#. Text in echo
+#: snapshot/comments.php:95
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:31
+msgid "Website Address"
+msgstr "Website URL"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:35
+msgid "Website Rating"
+msgstr "Websitebewertung"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "You must be"
+msgstr "Du musst"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Dein Kommentar muss erst moderiert werden"
+
+#. Text in echo
+#: snapshot/footer.php:9
+msgid "by"
+msgstr "von"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "logged in"
+msgstr "eingeloggt sein"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "to post a comment."
+msgstr "um kommentieren zu können."
+

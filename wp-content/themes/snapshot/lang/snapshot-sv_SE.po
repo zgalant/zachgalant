@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Patrik Larsson <hqmstudios@plmedia.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#. Text in function
+#: snapshot/comments.php:89
+#: snapshot/comments.php:92
+msgid "(required)"
+msgstr "(nödvändigt)"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "0 Comments"
+msgstr "0 Kommentarer"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#. Text in echo
+#: snapshot/index.php:53
+#: snapshot/archive.php:53
+#: snapshot/tag.php:53
+msgid "Added on"
+msgstr "Tillagd den"
+
+#. Text in echo
+#: snapshot/header.php:11
+#: snapshot/header.php:12
+msgid "Archive"
+msgstr "Arkiv"
+
+#. Text in echo
+#: snapshot/header.php:8
+msgid "Author Archives"
+msgstr "Författar Arkiv"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:44
+#: snapshot/layouts/1-photo.php:51
+msgid "Author's Description"
+msgstr "Författarens Beskrivning"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:33
+#: snapshot/layouts/1-photo.php:39
+msgid "Category"
+msgstr "Kategori"
+
+#. Text in echo
+#: snapshot/comments.php:66
+msgid "Comments are closed"
+msgstr "Kommentarer är stängda"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Redigera"
+
+#. Text in echo
+#: snapshot/header.php:48
+#: snapshot/header.php:66
+msgid "Home"
+msgstr "Hem"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Log out of this account"
+msgstr "Logga ut från detta konto"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logout &raquo;"
+msgstr "Logga ut &raquo;"
+
+#. Text in echo
+#: snapshot/comments.php:92
+msgid "Mail (will not be published)"
+msgstr "Mail (publiceras)"
+
+#. Text in echo
+#: snapshot/comments.php:89
+msgid "Name"
+msgstr "Namn"
+
+#. Text in function
+#: snapshot/page.php:30
+msgid "Newer Entries"
+msgstr "Nyare Inlägg"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:35
+msgid "Photo Information"
+msgstr "Bild Information"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:41
+msgid "Photo Rating"
+msgstr "Bild Ranking"
+
+#. Text in echo
+#: snapshot/footer.php:6
+msgid "Powered by"
+msgstr ""
+
+#. Text in function
+#: snapshot/page.php:29
+msgid "Previous Entries"
+msgstr "Föregående Inlägg"
+
+#. Text in echo
+#: snapshot/header.php:7
+msgid "Search Results"
+msgstr "Sök Resultat"
+
+#. Text in echo
+#: snapshot/includes/theme-widgets.php:9
+msgid "Showcase Tags"
+msgstr ""
+
+#. Text in echo
+#: snapshot/comments.php:103
+msgid "Submit Comment"
+msgstr "Skicka Kommentar"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:29
+#: snapshot/layouts/1-photo.php:37
+msgid "Submitted on"
+msgstr "Publicerad den"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to the RSS feed"
+msgstr "Prenumerera via RSS"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to this site"
+msgstr "Prenumerera på denna sidan"
+
+#. Text in echo
+#: snapshot/header.php:13
+msgid "Tag Archive"
+msgstr "Tag Arkiv"
+
+#. Text in echo
+#: snapshot/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Inlägget är lösenords skyddat. Skriv in lösenord för att visa kommentarer."
+
+#. Text in echo
+#: snapshot/comments.php:95
+msgid "Website"
+msgstr "Hemsida"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:31
+msgid "Website Address"
+msgstr "Hemside Adress"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:35
+msgid "Website Rating"
+msgstr "Hemside Ranking"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "You must be"
+msgstr "Du måste vara"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar väntar moderation"
+
+#. Text in echo
+#: snapshot/footer.php:9
+msgid "by"
+msgstr "av"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "logged in"
+msgstr "inloggad "
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "to post a comment."
+msgstr "att posta en kommentar."
+

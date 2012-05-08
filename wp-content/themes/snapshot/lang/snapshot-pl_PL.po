@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: snapshot\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Maciej Swoboda <maciej.swoboda@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "% Comments"
+msgstr "Komentarze: %"
+
+#. Text in function
+#: snapshot/comments.php:89
+#: snapshot/comments.php:92
+msgid "(required)"
+msgstr "(pole wymagane)"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "0 Comments"
+msgstr "Brak komentarzy"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#. Text in echo
+#: snapshot/index.php:53
+#: snapshot/archive.php:53
+#: snapshot/tag.php:53
+msgid "Added on"
+msgstr "Dodane"
+
+#. Text in echo
+#: snapshot/header.php:11
+#: snapshot/header.php:12
+msgid "Archive"
+msgstr "Archiwa"
+
+#. Text in echo
+#: snapshot/header.php:8
+msgid "Author Archives"
+msgstr "Archiwa Autora"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:44
+#: snapshot/layouts/1-photo.php:51
+msgid "Author's Description"
+msgstr "Opis autora"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:33
+#: snapshot/layouts/1-photo.php:39
+msgid "Category"
+msgstr "Kategoria"
+
+#. Text in echo
+#: snapshot/comments.php:66
+msgid "Comments are closed"
+msgstr "Komentarze są zamknięte."
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Edytuj"
+
+#. Text in echo
+#: snapshot/header.php:48
+#: snapshot/header.php:66
+msgid "Home"
+msgstr "Strona główna"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Log out of this account"
+msgstr "Wyloguj się z tego konta"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logged in as"
+msgstr "Jesteś zalogowany jako"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logout &raquo;"
+msgstr "Wyloguj się &raquo;"
+
+#. Text in echo
+#: snapshot/comments.php:92
+msgid "Mail (will not be published)"
+msgstr "E-mail (nie będzie publikowany)"
+
+#. Text in echo
+#: snapshot/comments.php:89
+msgid "Name"
+msgstr "Imię i nazwisko (lub ksywka)"
+
+#. Text in function
+#: snapshot/page.php:30
+msgid "Newer Entries"
+msgstr "Nowsze wpisy"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:35
+msgid "Photo Information"
+msgstr "Informacje o zdjęciu"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:41
+msgid "Photo Rating"
+msgstr "Ocena zdjęcia"
+
+#. Text in echo
+#: snapshot/footer.php:6
+msgid "Powered by"
+msgstr "Napędzany przez"
+
+#. Text in function
+#: snapshot/page.php:29
+msgid "Previous Entries"
+msgstr "Poprzednie wpisy"
+
+#. Text in echo
+#: snapshot/header.php:7
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#. Text in echo
+#: snapshot/includes/theme-widgets.php:9
+msgid "Showcase Tags"
+msgstr "Tagi"
+
+#. Text in echo
+#: snapshot/comments.php:103
+msgid "Submit Comment"
+msgstr "Dodaj Komentarz"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:29
+#: snapshot/layouts/1-photo.php:37
+msgid "Submitted on"
+msgstr "Dodany"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to the RSS feed"
+msgstr "Subskrybuj RSS"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to this site"
+msgstr "Subskrybuj RSS"
+
+#. Text in echo
+#: snapshot/header.php:13
+msgid "Tag Archive"
+msgstr "Archiwa Tagu"
+
+#. Text in echo
+#: snapshot/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ten wpis jest chroniony hasłem Wpisz hasło, żeby zobaczyć komentarze."
+
+#. Text in echo
+#: snapshot/comments.php:95
+msgid "Website"
+msgstr "Strona WWW"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:31
+msgid "Website Address"
+msgstr "Adres strony"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:35
+msgid "Website Rating"
+msgstr "Ocena strony"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "You must be"
+msgstr "Musisz być"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Twój komentarz czeka na moderację."
+
+#. Text in echo
+#: snapshot/footer.php:9
+msgid "by"
+msgstr "przez"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "logged in"
+msgstr "zalogowany"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "to post a comment."
+msgstr "aby napisać komentarz."
+

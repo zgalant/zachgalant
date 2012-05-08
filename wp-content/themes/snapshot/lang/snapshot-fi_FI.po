@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#. Text in function
+#: snapshot/comments.php:89
+#: snapshot/comments.php:92
+msgid "(required)"
+msgstr "(vaaditaan)"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "0 Comments"
+msgstr "0 kommenttia"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#. Text in echo
+#: snapshot/index.php:53
+#: snapshot/archive.php:53
+#: snapshot/tag.php:53
+msgid "Added on"
+msgstr "Lisätty"
+
+#. Text in echo
+#: snapshot/header.php:11
+#: snapshot/header.php:12
+msgid "Archive"
+msgstr "Arkisto"
+
+#. Text in echo
+#: snapshot/header.php:8
+msgid "Author Archives"
+msgstr "Kirjoittajan arkistot"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:44
+#: snapshot/layouts/1-photo.php:51
+msgid "Author's Description"
+msgstr "Kirjoittajan kuvaus"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:33
+#: snapshot/layouts/1-photo.php:39
+msgid "Category"
+msgstr "Aihe"
+
+#. Text in echo
+#: snapshot/comments.php:66
+msgid "Comments are closed"
+msgstr "Kommentit ovat pois päältä."
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Muokkaa"
+
+#. Text in echo
+#: snapshot/header.php:48
+#: snapshot/header.php:66
+msgid "Home"
+msgstr "Etusivu"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Log out of this account"
+msgstr "Kirjaudu ulos tältä tunnukselta"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logged in as"
+msgstr "Kirjautuneena tunnuksella"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logout &raquo;"
+msgstr "Kirjaudu ulos &raquo;"
+
+#. Text in echo
+#: snapshot/comments.php:92
+msgid "Mail (will not be published)"
+msgstr "Sähköposti (ei julkaista)"
+
+#. Text in echo
+#: snapshot/comments.php:89
+msgid "Name"
+msgstr "Nimi"
+
+#. Text in function
+#: snapshot/page.php:30
+msgid "Newer Entries"
+msgstr "Uudemmat artikkelit"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:35
+msgid "Photo Information"
+msgstr "Kuvasta tietoa"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:41
+msgid "Photo Rating"
+msgstr "Kuvan arvostelu"
+
+#. Text in echo
+#: snapshot/footer.php:6
+msgid "Powered by"
+msgstr "Toteutettu"
+
+#. Text in function
+#: snapshot/page.php:29
+msgid "Previous Entries"
+msgstr "Edelliset artikkelit"
+
+#. Text in echo
+#: snapshot/header.php:7
+msgid "Search Results"
+msgstr "Hakutulokset"
+
+#. Text in echo
+#: snapshot/includes/theme-widgets.php:9
+msgid "Showcase Tags"
+msgstr "Kuva-avainsanat"
+
+#. Text in echo
+#: snapshot/comments.php:103
+msgid "Submit Comment"
+msgstr "Lähetä kommentti"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:29
+#: snapshot/layouts/1-photo.php:37
+msgid "Submitted on"
+msgstr "Lähetetty"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to the RSS feed"
+msgstr "Tilaa RSS-syöte"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to this site"
+msgstr "Tilaa tämä sivu"
+
+#. Text in echo
+#: snapshot/header.php:13
+msgid "Tag Archive"
+msgstr "Avainsana-arkisto"
+
+#. Text in echo
+#: snapshot/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tämä artikkeli on salasanasuojattu. Syötä salasanasi jatkaaksesi."
+
+#. Text in echo
+#: snapshot/comments.php:95
+msgid "Website"
+msgstr "Kotisivu"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:31
+msgid "Website Address"
+msgstr "Kotisivun osoite"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:35
+msgid "Website Rating"
+msgstr "Kotisivun arvostelu"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "You must be"
+msgstr "Sinun täytyy olla"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Kommenttisi odottaa hyväksyntää."
+
+#. Text in echo
+#: snapshot/footer.php:9
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "logged in"
+msgstr "kirjautunut"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "to post a comment."
+msgstr "lähettääksesi kommentin."
+

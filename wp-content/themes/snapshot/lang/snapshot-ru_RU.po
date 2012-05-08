@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduard Luhtonen <eduard.luhtonen@wippies.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "% Comments"
+msgstr "% комментариев"
+
+#. Text in function
+#: snapshot/comments.php:89
+#: snapshot/comments.php:92
+msgid "(required)"
+msgstr "(обязателен)"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#. Text in function
+#: snapshot/comments.php:24
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#. Text in echo
+#: snapshot/index.php:53
+#: snapshot/archive.php:53
+#: snapshot/tag.php:53
+msgid "Added on"
+msgstr "Добавлено"
+
+#. Text in echo
+#: snapshot/header.php:11
+#: snapshot/header.php:12
+msgid "Archive"
+msgstr "Архив"
+
+#. Text in echo
+#: snapshot/header.php:8
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:44
+#: snapshot/layouts/1-photo.php:51
+msgid "Author's Description"
+msgstr "Описание автора"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:33
+#: snapshot/layouts/1-photo.php:39
+msgid "Category"
+msgstr "Раздел"
+
+#. Text in echo
+#: snapshot/comments.php:66
+msgid "Comments are closed"
+msgstr "Комментарии закрыты"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Радактировать"
+
+#. Text in echo
+#: snapshot/header.php:48
+#: snapshot/header.php:66
+msgid "Home"
+msgstr "Главная"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Log out of this account"
+msgstr "Выйти из данной учетной записи"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#. Text in echo
+#: snapshot/comments.php:84
+msgid "Logout &raquo;"
+msgstr "Выйти &raquo;"
+
+#. Text in echo
+#: snapshot/comments.php:92
+msgid "Mail (will not be published)"
+msgstr "Почта (не будет опубликовано)"
+
+#. Text in echo
+#: snapshot/comments.php:89
+msgid "Name"
+msgstr "Имя"
+
+#. Text in function
+#: snapshot/page.php:30
+msgid "Newer Entries"
+msgstr "Новые записи"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:35
+msgid "Photo Information"
+msgstr "Информация фотографии"
+
+#. Text in echo
+#: snapshot/layouts/1-photo.php:41
+msgid "Photo Rating"
+msgstr "Оценка фотографии"
+
+#. Text in echo
+#: snapshot/footer.php:6
+msgid "Powered by"
+msgstr "Работает на"
+
+#. Text in function
+#: snapshot/page.php:29
+msgid "Previous Entries"
+msgstr "Предыдущие записи"
+
+#. Text in echo
+#: snapshot/header.php:7
+msgid "Search Results"
+msgstr "Результат поиска"
+
+#. Text in echo
+#: snapshot/includes/theme-widgets.php:9
+msgid "Showcase Tags"
+msgstr "Метки выставки"
+
+#. Text in echo
+#: snapshot/comments.php:103
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:29
+#: snapshot/layouts/1-photo.php:37
+msgid "Submitted on"
+msgstr "Опубликовано на"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to the RSS feed"
+msgstr "Подписаться на RSS-канал"
+
+#. Text in echo
+#: snapshot/header.php:75
+msgid "Subscribe to this site"
+msgstr "Подписка на данный сайт"
+
+#. Text in echo
+#: snapshot/header.php:13
+msgid "Tag Archive"
+msgstr "Архив меток"
+
+#. Text in echo
+#: snapshot/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#. Text in echo
+#: snapshot/comments.php:95
+msgid "Website"
+msgstr "Вебсайт"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:31
+msgid "Website Address"
+msgstr "Адрес вебсайта"
+
+#. Text in echo
+#: snapshot/layouts/2-gallery.php:35
+msgid "Website Rating"
+msgstr "Рейтинг вебсайта"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "You must be"
+msgstr "Вы должны"
+
+#. Text in function
+#: snapshot/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Ваш комментарий ожидает утверждения"
+
+#. Text in echo
+#: snapshot/footer.php:9
+msgid "by"
+msgstr "по"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "logged in"
+msgstr "вы вошли в систему"
+
+#. Text in echo
+#: snapshot/comments.php:77
+msgid "to post a comment."
+msgstr "чтобы оставить комментарий."
